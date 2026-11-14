@@ -1,0 +1,411 @@
+{
+  "language": {
+    "id": null,
+    "label": "中文（普通话，简体）"
+  },
+  "voices": [
+    {
+      "id": "en-GB-AdaMultilingualNeural",
+      "label": "Ada Multilingual"
+    },
+    {
+      "id": "en-US-AdamMultilingualNeural",
+      "label": "Adam Multilingual"
+    },
+    {
+      "id": "it-IT-AlessioMultilingualNeural",
+      "label": "Alessio Multilingual"
+    },
+    {
+      "id": "en-US-AlloyTurboMultilingualNeural",
+      "label": "Alloy Turbo Multilingual"
+    },
+    {
+      "id": "en-US-AmandaMultilingualNeural",
+      "label": "Amanda Multilingual"
+    },
+    {
+      "id": "en-US-AndrewMultilingualNeural",
+      "label": "Andrew Multilingual"
+    },
+    {
+      "id": "es-ES-ArabellaMultilingualNeural",
+      "label": "Arabella Multilingual"
+    },
+    {
+      "id": "en-US-AvaMultilingualNeural",
+      "label": "Ava Multilingual"
+    },
+    {
+      "id": "en-US-BrandonMultilingualNeural",
+      "label": "Brandon Multilingual"
+    },
+    {
+      "id": "en-US-BrianMultilingualNeural",
+      "label": "Brian Multilingual"
+    },
+    {
+      "id": "en-US-ChristopherMultilingualNeural",
+      "label": "Christopher Multilingual"
+    },
+    {
+      "id": "en-US-CoraMultilingualNeural",
+      "label": "Cora Multilingual"
+    },
+    {
+      "id": "es-MX-DaliaMultilingualNeural",
+      "label": "Dalia Multilingual"
+    },
+    {
+      "id": "en-US-DavisMultilingualNeural",
+      "label": "Davis Multilingual"
+    },
+    {
+      "id": "en-US-DerekMultilingualNeural",
+      "label": "Derek Multilingual"
+    },
+    {
+      "id": "en-US-DustinMultilingualNeural",
+      "label": "Dustin Multilingual"
+    },
+    {
+      "id": "en-US-EchoTurboMultilingualNeural",
+      "label": "Echo Turbo Multilingual"
+    },
+    {
+      "id": "en-US-EmmaMultilingualNeural",
+      "label": "Emma Multilingual"
+    },
+    {
+      "id": "en-US-EvelynMultilingualNeural",
+      "label": "Evelyn Multilingual"
+    },
+    {
+      "id": "en-US-FableTurboMultilingualNeural",
+      "label": "Fable Turbo Multilingual"
+    },
+    {
+      "id": "de-DE-FlorianMultilingualNeural",
+      "label": "Florian Multilingual (Florian Mehrsprachig)"
+    },
+    {
+      "id": "it-IT-GiuseppeMultilingualNeural",
+      "label": "Giuseppe Multilingual"
+    },
+    {
+      "id": "ko-KR-HyunsuMultilingualNeural",
+      "label": "Hyunsu Multilingual"
+    },
+    {
+      "id": "it-IT-IsabellaMultilingualNeural",
+      "label": "Isabella Multilingual"
+    },
+    {
+      "id": "es-ES-IsidoraMultilingualNeural",
+      "label": "Isidora Multilingual"
+    },
+    {
+      "id": "es-MX-JorgeMultilingualNeural",
+      "label": "Jorge Multilingual"
+    },
+    {
+      "id": "en-US-LewisMultilingualNeural",
+      "label": "Lewis Multilingual"
+    },
+    {
+      "id": "en-US-LolaMultilingualNeural",
+      "label": "Lola Multilingual"
+    },
+    {
+      "id": "fr-FR-LucienMultilingualNeural",
+      "label": "Lucien Multilingual"
+    },
+    {
+      "id": "pt-BR-MacerioMultilingualNeural",
+      "label": "Macerio Multilingual"
+    },
+    {
+      "id": "it-IT-MarcelloMultilingualNeural",
+      "label": "Marcello Multilingual"
+    },
+    {
+      "id": "en-US-NancyMultilingualNeural",
+      "label": "Nancy Multilingual"
+    },
+    {
+      "id": "en-US-NovaTurboMultilingualNeural",
+      "label": "Nova Turbo Multilingual"
+    },
+    {
+      "id": "en-GB-OllieMultilingualNeural",
+      "label": "Ollie Multilingual"
+    },
+    {
+      "id": "en-US-OnyxTurboMultilingualNeural",
+      "label": "Onyx Turbo Multilingual"
+    },
+    {
+      "id": "en-US-PhoebeMultilingualNeural",
+      "label": "Phoebe Multilingual"
+    },
+    {
+      "id": "fr-FR-RemyMultilingualNeural",
+      "label": "Remy Multilingual (Rémy Multilingue)"
+    },
+    {
+      "id": "en-US-RyanMultilingualNeural",
+      "label": "Ryan Multilingual"
+    },
+    {
+      "id": "en-US-SamuelMultilingualNeural",
+      "label": "Samuel Multilingual"
+    },
+    {
+      "id": "de-DE-SeraphinaMultilingualNeural",
+      "label": "Seraphina Multilingual (Seraphina Mehrsprachig)"
+    },
+    {
+      "id": "en-US-SerenaMultilingualNeural",
+      "label": "Serena Multilingual"
+    },
+    {
+      "id": "en-US-ShimmerTurboMultilingualNeural",
+      "label": "Shimmer Turbo Multilingual"
+    },
+    {
+      "id": "en-US-SteffanMultilingualNeural",
+      "label": "Steffan Multilingual"
+    },
+    {
+      "id": "pt-BR-ThalitaMultilingualNeural",
+      "label": "Thalita Multilingual (Thalita multilíngue)"
+    },
+    {
+      "id": "es-ES-TristanMultilingualNeural",
+      "label": "Tristan Multilingual"
+    },
+    {
+      "id": "fr-FR-VivienneMultilingualNeural",
+      "label": "Vivienne Multilingual (Vivienne Multilingue)"
+    },
+    {
+      "id": "en-AU-WilliamMultilingualNeural",
+      "label": "William Multilingual"
+    },
+    {
+      "id": "zh-CN-XiaochenMultilingualNeural",
+      "label": "Xiaochen Multilingual (晓辰 多语言)"
+    },
+    {
+      "id": "zh-CN-XiaoshuangMultilingualNeural",
+      "label": "Xiaoshuang Multilingual (晓双 多语言)"
+    },
+    {
+      "id": "zh-CN-XiaoxiaoDialectsNeural",
+      "label": "Xiaoxiao Dialects (晓晓 方言)"
+    },
+    {
+      "id": "zh-CN-XiaoxiaoMultilingualNeural",
+      "label": "Xiaoxiao Multilingual (晓晓 多语言)"
+    },
+    {
+      "id": "zh-CN-XiaoyouMultilingualNeural",
+      "label": "Xiaoyou Multilingual (晓悠 多语言)"
+    },
+    {
+      "id": "zh-CN-XiaoyuMultilingualNeural",
+      "label": "Xiaoyu Multilingual (晓宇 多语言)"
+    },
+    {
+      "id": "es-ES-XimenaMultilingualNeural",
+      "label": "Ximena Multilingual"
+    },
+    {
+      "id": "zh-CN-YunfanMultilingualNeural",
+      "label": "Yunfan Multilingual"
+    },
+    {
+      "id": "zh-CN-YunxiaoMultilingualNeural",
+      "label": "Yunxiao Multilingual"
+    },
+    {
+      "id": "zh-CN-YunyiMultilingualNeural",
+      "label": "Yunyi Multilingual (云逸 多语言)"
+    },
+    {
+      "id": "zh-CN-XiaochenNeural",
+      "label": "Xiaochen (晓辰)"
+    },
+    {
+      "id": "zh-CN-Xiaochen-DragonHDFlashLatestNeural",
+      "label": "Xiaochen Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-XiaohanNeural",
+      "label": "Xiaohan (晓涵)"
+    },
+    {
+      "id": "zh-CN-Xiaohan-DragonHDFlashLatestNeural",
+      "label": "Xiaohan Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-Xiaoke-DragonHDFlashLatestNeural",
+      "label": "Xiaoke Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-XiaomengNeural",
+      "label": "Xiaomeng (晓梦)"
+    },
+    {
+      "id": "zh-CN-XiaomoNeural",
+      "label": "Xiaomo (晓墨)"
+    },
+    {
+      "id": "zh-CN-Xiaomo-DragonHDFlashLatestNeural",
+      "label": "Xiaomo Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-Xiaoqi-DragonHDFlashLatestNeural",
+      "label": "Xiaoqi Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-XiaoqiuNeural",
+      "label": "Xiaoqiu (晓秋)"
+    },
+    {
+      "id": "zh-CN-XiaorouNeural",
+      "label": "Xiaorou (晓柔)"
+    },
+    {
+      "id": "zh-CN-Xiaorou-DragonHDFlashLatestNeural",
+      "label": "Xiaorou Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-XiaoruiNeural",
+      "label": "Xiaorui (晓睿)"
+    },
+    {
+      "id": "zh-CN-XiaoshuangNeural",
+      "label": "Xiaoshuang (晓双)"
+    },
+    {
+      "id": "zh-CN-Xiaoshuang-DragonHDFlashLatestNeural",
+      "label": "Xiaoshuang Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-XiaoxiaoNeural",
+      "label": "Xiaoxiao (晓晓)"
+    },
+    {
+      "id": "zh-CN-Xiaoxiao-DragonHDFlashLatestNeural",
+      "label": "Xiaoxiao Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-Xiaoxiao2-DragonHDFlashLatestNeural",
+      "label": "Xiaoxiao2 Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-XiaoyanNeural",
+      "label": "Xiaoyan (晓颜)"
+    },
+    {
+      "id": "zh-CN-XiaoyiNeural",
+      "label": "Xiaoyi (晓伊)"
+    },
+    {
+      "id": "zh-CN-Xiaoyi-DragonHDFlashLatestNeural",
+      "label": "Xiaoyi Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-XiaoyouNeural",
+      "label": "Xiaoyou (晓悠)"
+    },
+    {
+      "id": "zh-CN-Xiaoyou-DragonHDFlashLatestNeural",
+      "label": "Xiaoyou Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-Xiaoyu-DragonHDFlashLatestNeural",
+      "label": "Xiaoyu Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-XiaozhenNeural",
+      "label": "Xiaozhen (晓甄)"
+    },
+    {
+      "id": "zh-CN-Yunfan-DragonHDFlashLatestNeural",
+      "label": "Yunfan Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-YunfengNeural",
+      "label": "Yunfeng (云枫)"
+    },
+    {
+      "id": "zh-CN-Yunfeng-DragonHDFlashLatestNeural",
+      "label": "Yunfeng Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-Yunhan-DragonHDFlashLatestNeural",
+      "label": "Yunhan Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-YunhaoNeural",
+      "label": "Yunhao (云皓)"
+    },
+    {
+      "id": "zh-CN-YunjianNeural",
+      "label": "Yunjian (云健)"
+    },
+    {
+      "id": "zh-CN-YunjieNeural",
+      "label": "Yunjie (云杰)"
+    },
+    {
+      "id": "zh-CN-Yunjie-DragonHDFlashLatestNeural",
+      "label": "Yunjie Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-YunxiNeural",
+      "label": "Yunxi (云希)"
+    },
+    {
+      "id": "zh-CN-Yunxi-DragonHDFlashLatestNeural",
+      "label": "Yunxi Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-YunxiaNeural",
+      "label": "Yunxia (云夏)"
+    },
+    {
+      "id": "zh-CN-Yunxia-DragonHDFlashLatestNeural",
+      "label": "Yunxia Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-Yunxiao-DragonHDFlashLatestNeural",
+      "label": "Yunxiao Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-YunyangNeural",
+      "label": "Yunyang (云扬)"
+    },
+    {
+      "id": "zh-CN-YunyeNeural",
+      "label": "Yunye (云野)"
+    },
+    {
+      "id": "zh-CN-Yunye-DragonHDFlashLatestNeural",
+      "label": "Yunye Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-Yunyi-DragonHDFlashLatestNeural",
+      "label": "Yunyi Dragon HD Flash Latest"
+    },
+    {
+      "id": "zh-CN-YunzeNeural",
+      "label": "Yunze (云泽)"
+    }
+  ],
+  "captured_at": "2026-11-14T22:11:41.329701+00:00",
+  "source": "bundled_snapshot",
+  "note": "网页当时加载的选项；可能不完整或已变化。"
+}
